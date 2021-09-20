@@ -1,0 +1,106 @@
+.speech {
+    font-family: Calibri;
+    font-size: medium;
+    color: black;
+  }
+  .stage-direction {
+    font-family: Calibri;
+    font-size: medium;
+    color: black;
+  }
+  .name {
+    font-family: Calibri;
+    font-size: medium;
+    color: black;
+  }
+  .directions {
+    color: red;
+  }
+  #a1:hover {
+    background-color: Aquamarine;
+    color: brown;
+  }
+  .scenedescription {
+    color: green;
+  }
+  .youngsyrian{
+    color: blue;
+  }
+  .page{
+    color:limegreen;
+  }
+  .firstsoldier{
+    color: orangered;
+  }
+  .LORDGORING{
+    color: magenta;
+  }
+  .SIRROBERTCHILTERN{
+    color: blueviolet;
+  }
+  .characterName {
+    font-size: 1rem;
+    font-style: 🧑;
+  }
+  
+  .description {
+    font-size: .900rem;
+  }
+  .table,
+  td{
+    border: 1px solid black;
+    border-collapse: collapse;  
+    text-align: left;
+    color: red;
+    padding: 5px;
+  }
+  th{
+    border: 2px solid black;
+    text-align: left;
+    background-color: bisque;
+  }
+  tr:nth-child(even) {
+    background-color: lightgreen;
+  }
+  #a2:hover{
+    text-shadow: 2px 2px black;
+    color: red;
+     text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  }
+  ul {
+    list-style-type: disc;
+    color: darksalmon;
+  }
+   
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.navbar-horizontal li {
+    float: left;
+    color: #000;
+    background-color: AliceBlue;
+    border: 2px solid black;
+  }
+  ul.navbar-horizontal a {
+    display: block;
+    padding: 8px;
+  }
+  ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color: white;
+  }
+  .firstpage {
+    background-color: gold;
+  }
+  .secondpage {
+    background-color: silver;
+  }
+  .left {
+    text-align: left;
+  }
+  .h5{
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
